@@ -22,4 +22,4 @@ We introduce two different methods to calculate packing density: *Voronoi* and *
 More details can be found in the Documentation.pdf. 
 
 ## 4) Results
-Here, we provide the predicted shapes, their volume and moment of inertia calculated in part 2, the simulation output files for one molecule, and the packing densities for all the molecules measured with the different methods. 
+Here, we provide the predicted shapes, their volume and moment of inertia calculated in part 2, the simulation output files for one molecule, and the packing densities for all the molecules measured with the different methods. The Mathematica notebook used to create some of the plots is also included.
